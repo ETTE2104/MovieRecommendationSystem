@@ -40,7 +40,7 @@ To deliver accurate and diverse recommendations while handling common industry c
 
 > **Notice:** Due to the massive storage footprint of the processed historical rating datasets (Kaggle), calculated sparse similarity matrices, and the serialized training models (`.pkl` binaries), uploading the complete environment and dataset to GitHub was not feasible. 
 > 
-> Therefore, this repository primarily hosts the official full-length **Graduation Thesis Documentation (`DATN.docx`)** and the **Project Presentation Slides (`Slide_ThuyetTrinh.pptx`)**. The core architecture, algorithms, and system schemas are thoroughly detailed within these documents.
+> Therefore, this repository primarily hosts the official full-length **Graduation Thesis Documentation (`DATN.docx`)** and the **Project Presentation Slides (`MoviePre.pptx`)**. The core architecture, algorithms, and system schemas are thoroughly detailed within these documents.
 
 ---
 
