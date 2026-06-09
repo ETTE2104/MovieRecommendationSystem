@@ -31,10 +31,13 @@ To deliver accurate and diverse recommendations while handling common industry c
 ```text
 ├── AI_Engine/                  # Python Flask Server for ML modeling (.pkl files)
 ├── Backend/                     # Node.js Express Server & MongoDB Schemas
-├── Frontend/                    # React.js Client SPA Source Code
+└── Frontend/                    # React.js Client SPA Source Code
+
+---
 
 ## 📌 Note on Repository Contents
 
 > **Notice:** Due to the massive storage footprint of the processed historical rating datasets (Kaggle), calculated sparse similarity matrices, and the serialized training models (`.pkl` binaries), uploading the complete environment and dataset to GitHub was not feasible. 
 > 
 > Therefore, this repository primarily hosts the official full-length **Graduation Thesis Documentation (`DATN.docx`)** and the **Project Presentation Slides (`MoviePre.pptx`)**. The core architecture, algorithms, and system schemas are thoroughly detailed within these documents.
+
