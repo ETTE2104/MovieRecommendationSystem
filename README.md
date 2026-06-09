@@ -28,7 +28,6 @@ To deliver accurate and diverse recommendations while handling common industry c
 
 ## 📁 Repository Structure
 
-MovieRecommendationSysterm
 ├── AI_Engine/                  # Python Flask Server for ML modeling (.pkl files)
 ├── Backend/                     # Node.js Express Server & MongoDB Schemas
 ├── Frontend/                    # React.js Client SPA Source Code
